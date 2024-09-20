@@ -1,0 +1,15 @@
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/bin/Debug/net8.0/Lab1_1
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/bin/Debug/net8.0/Lab1_1.deps.json
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/bin/Debug/net8.0/Lab1_1.runtimeconfig.json
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/bin/Debug/net8.0/Lab1_1.dll
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/bin/Debug/net8.0/Lab1_1.pdb
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/Lab1_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/Lab1_1.AssemblyInfoInputs.cache
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/Lab1_1.AssemblyInfo.cs
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/Lab1_1.csproj.CoreCompileInputs.cache
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/Lab1_1.sourcelink.json
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/Lab1_1.dll
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/refint/Lab1_1.dll
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/Lab1_1.pdb
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/Lab1_1.genruntimeconfig.cache
+/home/miut/Documents/Git/Csharp-Labs/Lab1_1/obj/Debug/net8.0/ref/Lab1_1.dll
