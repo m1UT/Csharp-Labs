@@ -3,7 +3,6 @@ double y=0;
 
 Console.Write("Введите x: ");
 Double x = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine(Convert.ToString(x));
 
 while (n <= 20)
 {   
@@ -11,4 +10,7 @@ while (n <= 20)
     n ++;
 }
 
-Console.Write("Ответ: "+Convert.ToString(y));
+Console.WriteLine("Ответ: "+Convert.ToString(y));
+
+
+
